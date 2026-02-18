@@ -7,7 +7,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
 ---
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; align-items: center;">
 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
@@ -15,7 +15,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
   
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
