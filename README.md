@@ -7,21 +7,24 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
 ---
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
 
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <!-- Linguagens -->
+  <img height="40" src="https://skillicons.dev/icons?i=python" />
+  <img height="40" src="https://skillicons.dev/icons?i=cpp" />
   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <!-- Banco de Dados -->
+  <img height="40" src="https://skillicons.dev/icons?i=mysql" />
   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <!-- Cloud -->
+  <img height="40" src="https://skillicons.dev/icons?i=aws" />
   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <!-- Web -->
+  <img height="40" src="https://skillicons.dev/icons?i=html" />
+  <img height="40" src="https://skillicons.dev/icons?i=css" />
 
 </div>
+
 
 
 
