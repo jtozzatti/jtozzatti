@@ -7,31 +7,27 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
 ---
 ### 🤖 Linguagens e Tecnologias
 
-<img
- align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          >
-        
-            
 <img 
- align="left" 
-    alt="C++"
-    title="C++" 
+    align="left" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          >
-
-          
-<img
-align="left" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++t"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
     alt="R"
-    title="CR" 
+    title="R" 
     width="30px" 
     style="padding-right: 10px;" 
-    src= "https://www.r-project.org/" >
-          >
+    src= "https://www.r-project.org/"" 
+/>
