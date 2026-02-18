@@ -15,6 +15,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="C++" 
@@ -23,6 +24,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+
 <img 
     align="left" 
     alt="MySql"
@@ -32,6 +34,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
 />
+
 <img 
     align="left" 
     alt="SQL" 
@@ -41,6 +44,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
 />
+
 <img 
     align="left" 
     alt="AWS"
@@ -50,6 +54,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
 />
+
 <img 
     align="left" 
     alt="HTML" 
@@ -59,6 +64,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo (Capital). Sou estudan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
 />
+
 <img 
     align="left" 
     alt="CSS" 
