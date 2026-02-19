@@ -32,3 +32,13 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inte
   <img height="50" src="https://skillicons.dev/icons?i=css" />
 </a>
 
+<!-- Novo Repositório R -->
+<a href="https://github.com/jtozzatti/R">
+  <img height="50" src="https://skillicons.dev/icons?i=r" />
+</a>
+
+<!-- Novo Repositório Cybersecurity -->
+<a href="https://github.com/jtozzatti/Cybersecurity">
+  <img height="50" src="https://skillicons.dev/icons?i=linux" />
+</a>
+
