@@ -8,8 +8,6 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inte
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-
 <a href="https://github.com/jtozzatti/Python">
   <img height="50" src="https://skillicons.dev/icons?i=python" />
 </a>
@@ -34,7 +32,3 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inte
   <img height="50" src="https://skillicons.dev/icons?i=css" />
 </a>
 
-</p>
-
-
-Se você quiser deixar ainda mais bonito, dá pra colocar o nome da stack embaixo de cada ícone tipo portfólio de dev pleno 👀
