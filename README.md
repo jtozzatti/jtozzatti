@@ -41,6 +41,6 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inte
 </a>
 
 <a href="https://github.com/jtozzatti/Machine-Learning-Deep-Learning-e-Redes-neurais.git">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" />
+  <img height="50" style="background-color:#1f2937; padding:10px; border-radius:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" />
 </a>
-
