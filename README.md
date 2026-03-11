@@ -21,15 +21,11 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inte
 </a>
 
 <a href="https://github.com/jtozzatti/Data-Science-Cloud">
+  <img height="50" src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://github.com/jtozzatti/Data-Science-Cloud">
   <img height="50" src="https://skillicons.dev/icons?i=aws" />
-</a>
-
-<a href="https://github.com/jtozzatti/Data-Science-Cloud">
-  <img height="50" src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://github.com/jtozzatti/Data-Science-Cloud">
-  <img height="50" src="https://skillicons.dev/icons?i=css" />
 </a>
 
 <a href="https://github.com/jtozzatti/R">
@@ -37,7 +33,7 @@ Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inte
 </a>
 
 <a href="https://github.com/jtozzatti/Cybersecurity-labs">
-  <img height="50" src="https://skillicons.dev/icons?i=linux" />
+  <img height="50" src="https://skillicons.dev/icons?i=kali" />
 </a>
 
 <a href="https://github.com/jtozzatti/Machine-Learning-Deep-Learning-e-Redes-neurais.git">
