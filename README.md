@@ -1,8 +1,12 @@
 # 🧑🏽‍💻 João Victor
 
-**Desenvolvedor em Formação | Python, ML & Dados**
+**AI & Machine Learning Student | Python, Data & ML**
 
-Me chamo João Victor, tenho 20 anos e moro em São Paulo. Sou estudante de Inteligência Artificial com foco em Machine Learning e Deep Learning, buscando transformar teoria em projetos práticos com Python, dados e cloud para resolver problemas reais. Atualmente atuo na Mobility Brasil, onde desenvolvo organização e responsabilidade operacional na área de logística, e minha experiência no Exército Brasileiro fortaleceu minha disciplina, resiliência e capacidade de trabalhar sob pressão. Estou em busca de uma oportunidade de estágio em TI para evoluir tecnicamente e agregar valor desde o primeiro dia.
+My name is João Victor, I’m 20 years old, and I’m based in São Paulo, Brazil. I’m an Artificial Intelligence student at FIAP, focusing on Machine Learning and Deep Learning, with a strong interest in turning theory into practical projects using Python, data, and cloud technologies to solve real-world problems.
+
+I currently work at Mobility Brasil, where I’ve developed strong organizational and operational skills in logistics. My previous experience in the Brazilian Army also strengthened my discipline, resilience, teamwork, and ability to perform under pressure.
+
+I’m currently seeking an internship opportunity in IT where I can continue developing my technical skills, contribute to meaningful projects, and create value from day one.
 
 ---
 
