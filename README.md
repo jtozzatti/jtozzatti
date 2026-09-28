@@ -12,31 +12,18 @@ I’m currently seeking an internship opportunity in IT where I can continue dev
 
 ### 🤖 Linguagens e Tecnologias
 
-<a >
+### 🤖 Linguagens e Tecnologias
+
+<div>
   <img height="50" src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a >
   <img height="50" src="https://skillicons.dev/icons?i=cpp" />
-</a>
-
-<a >
   <img height="50" src="https://skillicons.dev/icons?i=mysql" />
-</a>
-
-<a >
   <img height="50" src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
-<a>
   <img height="50" src="https://skillicons.dev/icons?i=aws" />
-</a>
-
-<a >
   <img height="50" src="https://skillicons.dev/icons?i=r" />
-</a>
-
-<a >
-  <img height="50" style="background-color:#1f2937; padding:10px; border-radius:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" />
-</a>
+  <img
+    height="50"
+    style="background-color:#1f2937; padding:10px; border-radius:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg"
+  />
+</div>
