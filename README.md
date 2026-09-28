@@ -12,31 +12,31 @@ I’m currently seeking an internship opportunity in IT where I can continue dev
 
 ### 🤖 Linguagens e Tecnologias
 
-<a href="https://github.com/jtozzatti/Python">
+<a >
   <img height="50" src="https://skillicons.dev/icons?i=python" />
 </a>
 
-<a href="https://github.com/jtozzatti/SENSORS">
+<a >
   <img height="50" src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
-<a href="https://github.com/jtozzatti/Data-Science-Cloud">
+<a >
   <img height="50" src="https://skillicons.dev/icons?i=mysql" />
 </a>
 
-<a href="https://github.com/jtozzatti/Data-Science-Cloud">
+<a >
   <img height="50" src="https://skillicons.dev/icons?i=mongodb" />
 </a>
 
-<a href="https://github.com/jtozzatti/Data-Science-Cloud">
+<a>
   <img height="50" src="https://skillicons.dev/icons?i=aws" />
 </a>
 
-<a href="https://github.com/jtozzatti/R">
+<a >
   <img height="50" src="https://skillicons.dev/icons?i=r" />
 </a>
 
-<a href="https://github.com/jtozzatti/Machine-Learning-Deep-Learning-e-Redes-neurais.git">
+<a >
   <img height="50" style="background-color:#1f2937; padding:10px; border-radius:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" />
 </a>
