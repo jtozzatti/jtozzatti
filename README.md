@@ -12,8 +12,6 @@ I’m currently seeking an internship opportunity in IT where I can continue dev
 
 ### 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
-
 <div>
   <img height="50" src="https://skillicons.dev/icons?i=python" />
   <img height="50" src="https://skillicons.dev/icons?i=cpp" />
