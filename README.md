@@ -2,7 +2,7 @@
 
 **AI & Machine Learning Student | Python, Data & ML**
 
-My name is João Victor, I’m 20 years old, and I’m based in São Paulo, Brazil. I’m an Artificial Intelligence student at FIAP, focusing on Machine Learning and Deep Learning, with a strong interest in turning theory into practical projects using Python, data, and cloud technologies to solve real-world problems.
+My name is João Victor, I’m 21 years old, and I’m based in São Paulo, Brazil. I’m an Artificial Intelligence student at FIAP, focusing on Machine Learning and Deep Learning, with a strong interest in turning theory into practical projects using Python, data, and cloud technologies to solve real-world problems.
 
 I currently work at Mobility Brasil, where I’ve developed strong organizational and operational skills in logistics. My previous experience in the Brazilian Army also strengthened my discipline, resilience, teamwork, and ability to perform under pressure.
 
